@@ -1,0 +1,5 @@
+Book,The Catcher in the Rye,J.D. Salinger,101
+Book,To Kill a Mockingbird,Harper Lee,102
+Journal,Science Journal,John Doe,201
+Journal,AI Research,Jane Smith,202
+Journal,Time Pass,DK,204

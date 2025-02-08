@@ -1,0 +1,5 @@
+Student,Alice,1
+Student,Bob,2
+Student,Divyanshu,6
+Faculty,Dr. Smith,101
+Faculty,Prof. Johnson,102
