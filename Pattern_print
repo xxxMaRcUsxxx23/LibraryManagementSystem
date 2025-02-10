@@ -1,0 +1,29 @@
+import java.util.*;
+
+public class question{
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
+
+        int num = 1;
+        for(int i = 1;i <= n;i++){
+            if(i % 2 == 1){
+                for(int j=0;j<10;j++){
+                    System.out.print(num + " ");
+                    num++;
+                }
+            }else {
+                int start = num + 9;
+                for (int j = 0; j < 10; j++) {
+                    System.out.print(start + " ");
+                    start--;
+                }
+                num = num + 10;
+            }
+            System.out.println();
+        }
+        
+    }
+}
